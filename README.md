@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick and simple.
-This is a test2.
+This is a test.
